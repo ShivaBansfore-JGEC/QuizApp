@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#7a2aff"
+    tools:context="com.example.shiva.quizapp1.QuizTopic">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/add_ques"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:id="@+id/add_q_img"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/add"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Insert Question.."
+            android:textColor="#fff"
+            android:layout_marginTop="5dp"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"/>
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/add_ques"
+        android:layout_marginTop="40dp"
+        android:id="@+id/rv_category">
+    </android.support.v7.widget.RecyclerView>
+
+</RelativeLayout>

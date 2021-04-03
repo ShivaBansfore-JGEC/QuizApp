@@ -1,4 +1,6 @@
-### **It is a simple quiz mobile application.**<h1>
+### **Quiz App.** 
+It is a simple quiz mobile application
+.<h1>
 
 ### **Introduction**
 It is a simple quiz application where you can add your own question categorically and latter you can revise that question 
@@ -14,11 +16,13 @@ by playing the game. The motive of building this application was as a student wh
 
 Login page:
 
-![WhatsApp Image 2021-04-03 at 10 34 26 (3)](https://user-images.githubusercontent.com/51274153/113469155-00c01f80-9469-11eb-9caa-e00ec136e66d.jpeg)
+![WhatsApp Image 2021-04-03 at 10 58 01](https://user-images.githubusercontent.com/51274153/113469498-9492eb00-946b-11eb-9d58-f701b893a44c.jpeg)
+
 
 Category page:
 
-![WhatsApp Image 2021-04-03 at 10 34 26 (2)](https://user-images.githubusercontent.com/51274153/113469179-45e45180-9469-11eb-8941-e53a112155c7.jpeg)
+![WhatsApp Image 2021-04-03 at 10 58 01 (1)](https://user-images.githubusercontent.com/51274153/113469501-9eb4e980-946b-11eb-8a1e-20c189cbbc10.jpeg)
+
 
 Question page:
 
